@@ -11,7 +11,7 @@
 - 🔗 This is our company [GenZ DevLabs](https://www.genzdevlabs.com/).
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChathumiFernando-code&show_icons=true&locale=en" alt="chathumi-fernando" /></p>
-<img align="right" src="./files/bottom.gif" width="300px">
+<img align="right" src="./files/bottomm.gif" width="300px">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChathumiFernando-code&" alt="chathumi-fernando" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChathumiFernando-code&show_icons=true&locale=en&layout=compact" alt="chathumi-fernando" /></p>

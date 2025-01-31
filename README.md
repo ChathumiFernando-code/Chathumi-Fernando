@@ -1,4 +1,4 @@
-<img src="./files/main.gif" alt="Your Image">
+<img src="./files/video.gif" alt="Your Image">
 <h1 align="center">Hi 👋, I'm Chathumi Fernando</h1>
 <h3 align="center">A Full-Stack Developer from Sri Lanka</h3>
 
